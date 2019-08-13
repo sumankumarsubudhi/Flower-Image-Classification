@@ -21,8 +21,8 @@ Following arguments mandatory or optional for train.py
 
 Following arguments mandatory or optional for predict.py
 
-'image_dir'. 'Provide path to image. Mandatory argument', type = str
-'load_dir'. 'Provide path to checkpoint. Mandatory argument', type = str
-'--top_k'. 'Top K most likely classes. Optional', type = int
-'--category_names'. 'Mapping of categories to real names. JSON file name to be provided. Optional', type = str
-'--GPU'. "Option to use GPU. Optional", type = str
+1. 'image_dir'. 'Provide path to image. Mandatory argument', type = str
+2. 'load_dir'. 'Provide path to checkpoint. Mandatory argument', type = str
+3. '--top_k'. 'Top K most likely classes. Optional', type = int
+4. '--category_names'. 'Mapping of categories to real names. JSON file name to be provided. Optional', type = str
+5. '--GPU'. "Option to use GPU. Optional", type = str
