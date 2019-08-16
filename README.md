@@ -9,7 +9,7 @@ In Image Classifier Project.ipynb Alexnet from torchvision.models pretrained mod
 For command line applications there is an option to select either Alexnet or VGG13 models.
 
 ### After training the model
-
+![Image](https://user-images.githubusercontent.com/20025875/63187867-8a955c00-c07d-11e9-982d-1c69dc5f29df.png)
 
 Following arguments mandatory or optional for train.py
 
