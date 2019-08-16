@@ -8,6 +8,9 @@ In Image Classifier Project.ipynb Alexnet from torchvision.models pretrained mod
 ### Command line applications train.py and predict.py
 For command line applications there is an option to select either Alexnet or VGG13 models.
 
+### After training the model
+
+
 Following arguments mandatory or optional for train.py
 
 1. 'data_dir'. 'Provide data directory. Mandatory argument', type = str
